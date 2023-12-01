@@ -1,0 +1,28 @@
+body
+{
+	background-color: #363738;
+}
+
+div
+{
+	width: 60%;
+	background-color: gray;
+	text-align: center;
+	margin: auto;
+	border-style: solid;
+	border-color: white;
+	border-radius: 0.5em;
+	margin-top: 5%;
+	box-shadow: -15px 12px 50px #0d0d0d;
+	padding: 5px;
+}
+
+li
+{
+	text-align: left;
+}
+
+img
+{
+	height: 350px;
+}
